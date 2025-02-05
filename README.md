@@ -20,6 +20,7 @@ Protoboard
 *O sistema aguarda uma nova pressão no botão para repetir o ciclo.
 
 🔧 Configuração do Hardware
+
 Os componentes devem ser conectados da seguinte maneira ao Raspberry Pi Pico:
 
 Componente	GPIO
