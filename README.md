@@ -5,11 +5,14 @@ Este projeto utiliza um Raspberry Pi Pico para controlar três LEDs (azul, verde
 🛠️ Requisitos:
 
 *Raspberry Pi Pico
+
 *3 LEDs (azul, verde e vermelho)
+
 *3 resistores (330Ω)
+
 *1 botão push-button
-Fios de conexão
-Protoboard
+
+*Fios de conexão
 
 📌 Funcionamento:
 
